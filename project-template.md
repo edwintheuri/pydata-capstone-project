@@ -1,6 +1,6 @@
 **Project idea**
 
-- Idea: Tied to Energy over the years to show evolution from 1990-2025 
+- Idea: exploring the kenyan energy evolution over the years
 
 objective : to analyze how energy access and consumption corelate with economic indicators and business stability providing insight for sustainable development 
 
@@ -12,7 +12,7 @@ objective : to analyze how energy access and consumption corelate with economic 
 
 - Dataset Part: Access to electricity, rural (% of rural population) vs. Access to electricity, urban (% of urban population)
 
-- Visualization : Dual line chart Plot Rural and urban access in the y axis against the years in the x axis
+- Visualization : Dual line chart Plot Rural and urban access % in the y axis against the years in the x axis
 
 2. Energy Efficiency vs Economic Intensity
 
@@ -41,7 +41,7 @@ objective : to analyze how energy access and consumption corelate with economic 
 
 -   Matplotlib - Visualization 
 
--   Plotly - Interactivity , ability to hover over the charts  to show different years values
+-   st.line_chart and st.scatter_chart - Interactivity , ability to hover over the charts  to show different years values
 
 -   Vs Code for work book and code generation 
 
@@ -49,7 +49,10 @@ objective : to analyze how energy access and consumption corelate with economic 
 
 **What insights did you or do you want to discover?/ What Solutions do you want to offer? Do People even need these solutions?**
 
-**Aha moments** to discover is while electicity access has grown , outages have not dropped propotionally . Meaning having lights on its not the same has having reliable power. 
+**Aha moments** Are we using energy efficiently
+
+**proposed solutions to the energy indicators:
+
 
 - 1. By providing the following indicator on : value lost due to electrical outages , in my charts if firms are losing alot of the revenue due to outages this is a financial strain. 
 

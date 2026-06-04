@@ -1,0 +1,11 @@
+# 1. Environmnets & Python caches
+__pycache__/
+*.pyc
+venv/
+
+
+# 2. Streamlit & System files 
+.streamlit/
+.vscode/
+
+

@@ -1,0 +1,10 @@
+Ini, TOML
+
+[theme]
+
+primaryColor= '#008080' #profession "Energy/Teal" green 
+backgroundColor = '#F5F5F5' #light grey background
+secondaryBackgroundColor ='#FFFFFF' #white for sidebars and cards
+textColor = '#1D1D1F' Dark grey
+font  = 'san serif'
+
