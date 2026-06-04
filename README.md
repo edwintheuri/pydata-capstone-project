@@ -30,7 +30,8 @@ The Dashboard is structured into 4 interactive sections:
 To run this project locally, ensure you have Python installed, then install the following dependencies:
 
 ```bash
-pip install streamlit pandas  
+pip install streamlit pandas 
+``` 
 
 **i have included `matplotlib` incase you want to run it in a notebook to test or add things**
 
@@ -41,11 +42,13 @@ How to run this project
 
 ```bash 
 git clone https://github.com/edwintheuri/pydata-capstone-project/tree/main
+```
 
 2. Navigate to the project directory:
 
 ```bash
 cd [your cloned project folder]
+```
 
 eg cd C:\Users\username\Documents\pydata-capstone-project
 
@@ -53,6 +56,7 @@ eg cd C:\Users\username\Documents\pydata-capstone-project
 
 ```bash
 streamlit run app.py
+```
 
 ## Insights & Impacts
 This project highlighs the Reliability paradox even when electricity acces has significatly expanded through the country, power quality still remains one of those bottlenecks for the private sector growth. In my analysis , there is profound suggestion that incentivizing decentralized solar for smes and grid-optimizations is the most efficient path forward to Kenyan's energy future
@@ -65,4 +69,4 @@ Data is sourced from the **World Bank Energy and Mining**  open dataset
 
 | Social Equality | Economic Efficiency | Business Tax | 
 | :--: | :--: | :--:|
-| ![Equality](images/tab1.png) | ![Efficiency](images/tab2.png) | ! [Business](images/tab3.png)|
+| ![Equality](images/tab1.png) | ![Efficiency](images/tab2.png) | ![Business](images/tab3.png)|
