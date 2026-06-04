@@ -69,4 +69,4 @@ Data is sourced from the **World Bank Energy and Mining**  open dataset
 
 | Social Equality | Economic Efficiency | Business Tax | 
 | :--: | :--: | :--:|
-| ![Equality](images/tab1.png) | ![Efficiency](images/tab2.png) | ![Business](images/tab3.png)|
+| ![Equality](images/tab1.png.png) | ![Efficiency](images/tab2.png.png) | ![Business](images/tab3.png.png)|
