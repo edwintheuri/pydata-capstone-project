@@ -70,3 +70,8 @@ Data is sourced from the **World Bank Energy and Mining**  open dataset
 | Social Equality | Economic Efficiency | Business Tax | 
 | :--: | :--: | :--:|
 | ![Equality](images/tab1.png.png) | ![Efficiency](images/tab2.png.png) | ![Business](images/tab3.png.png)|
+
+## Future improvements 
+-   Statistical validation - i plan to implement linear regression line to quatify tbe rate of the decoupling
+-   Integrate a comparative analysis of  for fossil and renewable energy use
+-   I intent to calculate the corelation between natural resource depletion and energy reliabilty to ree if our reliance in finite energy sources is impacing the long- term stability of the grid 
